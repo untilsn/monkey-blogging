@@ -5,6 +5,7 @@ export const theme = {
   grayLight: "#E7ECF3",
   tertiary: "#3A1097",
   blueTheme: "#2EBAC1",
+  blueBGTheme: "#E8F0FE",
   accent: "#00D1ED",
   grayF3: "#F3EDFF",
   gray6B: "#6B6B6B",
